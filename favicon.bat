@@ -1,0 +1,1 @@
+"D:\Program Files\ImageMagick\convert" favicon-16x16.png favicon-24x24.png favicon-32x32.png favicon-64x64.png favicon-128x128.png favicon-256x256.png logo512.png favicon.ico
