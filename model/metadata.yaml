@@ -1,7 +1,7 @@
 description: Ultralytics YOLO11n model trained on data.yaml
 author: Ultralytics
-date: '2025-08-23T09:37:24.099497'
-version: 8.3.184
+date: '2025-08-29T09:12:22.758347'
+version: 8.3.189
 license: AGPL-3.0 License (https://ultralytics.com/license)
 docs: https://docs.ultralytics.com
 stride: 32
@@ -11,21 +11,27 @@ imgsz:
 - 256
 - 256
 names:
-  0: backward
-  1: endloop
-  2: forever
-  3: forward
-  4: go
-  5: horn
-  6: interrupt
-  7: left
-  8: loop2
-  9: loop3
-  10: loop4
-  11: loop5
-  12: right
-  13: start
-  14: stop
+  0: '30'
+  1: '45'
+  2: action
+  3: arc
+  4: backward
+  5: draw
+  6: endloop
+  7: forever
+  8: forward
+  9: go
+  10: grid
+  11: horn
+  12: interrupt
+  13: left
+  14: loop2
+  15: loop3
+  16: loop4
+  17: loop5
+  18: right
+  19: start
+  20: stop
 args:
   batch: 1
   half: true
